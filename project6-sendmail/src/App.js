@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Mail from './Assignments/sendmail';
+import Passwordstrength from './Assignments/Password';
 
 function App() {
   return (
     <div className="App">
-      <Mail/>
+      <Passwordstrength/>
     </div>
   );
 }

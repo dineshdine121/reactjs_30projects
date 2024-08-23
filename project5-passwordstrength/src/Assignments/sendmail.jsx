@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-function Password() {
+function Mail() {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -76,4 +76,4 @@ function Password() {
   );
 }
 
-export default Password;
+export default Mail;
